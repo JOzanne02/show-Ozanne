@@ -15,3 +15,5 @@ You can change the noodle size, cheese type, and toppings to your heart's desire
 4. Hyvee
 5. Walmart
 
+### Sides
+garlic bread, roasted vegetables, salad
