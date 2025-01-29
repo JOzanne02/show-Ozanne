@@ -10,6 +10,7 @@ The main characters in the movie are played by Tye Sheridan and Olivia Cooke
 ![Tye and Olivia](./Images/TyeSheridan&OliviaCooke.jpg)
 
 ---
+
 ### Substitute Actors
 | Actor | Reason | Age |
 |---|---|---: |
@@ -17,3 +18,12 @@ The main characters in the movie are played by Tye Sheridan and Olivia Cooke
 | Tom Holland | In a movie full of easter eggs having the most recent Spiderman as your lead would have been a great success | 28 |
 | Will Poulter | Poulter's expierence with action roles in *Guardians of the Galaxy 3* and *The Maze Runner* would have made him well prepared for the sci-fi combat scenes in this movie | 32 |
 | Jesse Eisenberg | Wade Watts is a quirky character and Eisenberg has shown he can display that type of character perfectly in the *Zombieland* franchise | 41 |
+
+--- 
+
+### Favorite Quotes
+Quote 1: 
+>If you have been brutally broken but still have the courage to be gentle to other living beings then you're a badass with a heart of an angel - *Keanu Reeves*
+
+Quote 2:
+>If you do not believe in yourself no one will do it for you - *Kobe Bryant*
